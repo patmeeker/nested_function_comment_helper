@@ -17,4 +17,4 @@ Once you comment the first line (opening bracket) of a function, the extension w
 
 No need to scroll down and lose your place, just to comment a single character - the extension does it for you!
 
-![alt text][demo]
+![alt text](https://raw.githubusercontent.com/patmeeker/nested_function_comment_helper/master/demo.gif "Demo gif")
