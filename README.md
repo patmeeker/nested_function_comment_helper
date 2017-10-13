@@ -23,4 +23,4 @@ Install
 =======
 
 1. Download the file **nested-function-comment-helper-0.0.1.vsix**
-2. [See: https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix) 
+2. See: [https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix) 
